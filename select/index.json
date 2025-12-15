@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "100万年の幸せ!!",
+  "base_artist": "桑田佳祐",
+  "createdAt": "2025-12-15T14:03:59.526446Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "100万年の幸せ!!",
+      "artist": "桑田 佳祐",
+      "has_synced": false,
+      "path": "select/pl_01_100万年の幸せ!!_桑田_佳祐.txt"
+    }
+  ]
+}
